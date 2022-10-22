@@ -4,6 +4,8 @@
 <img src="./demo-vid.gif" autoplay muted >
 </p>
 
+*Note: if you have zoomed in on this tab gif has an annoying purple grid, to fix it just go back to initial window zoom (100%) :D*
+
 📌
 I am not even sure if there is mmr system nowadays in league of legends but I came up with this idea of making a tool running in terminal and finds your mmr
 
